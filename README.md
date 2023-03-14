@@ -4,7 +4,7 @@
 <h2 align="center">  Hello World 👋🌎! </h2>
 
 <p align="center">
-I'm Abhay Nath singh 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experience in programming language like C++. I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕ .  
+I'm Abhay Nath singh 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experience in programming language like C++. I'm a full stack NodeJs developer,stepping in React development.  
 </p>
 
 
@@ -12,7 +12,6 @@ I'm Abhay Nath singh 😀 and currently pursuing my engineering in the field of 
 - 🌱 I’m currently building some projects in NodeJs and React.
 - 👯 I’m looking to collaborate on amazing web projects. 
 - 📫 Connect Me on : [Linkedin](https://www.linkedin.com/in/abhay-nath-singh-0404971a4/).
-- ⚡ Fun fact: I add sugar to my coffee ☕ 😂😂
 
 ### Projects 👨‍💻
 [E-Commerce](https://github.com/Abhaysingh4/E-commerce) &nbsp;&nbsp;||&nbsp;&nbsp;[Social-Media](https://github.com/Abhaysingh4/Social_Media_Application) &nbsp;&nbsp;||&nbsp;&nbsp; [Tic-Tac-Toe](https://github.com/Abhaysingh4/Tic-Tac-Toe) &nbsp;&nbsp;
